@@ -18,11 +18,9 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **Roberta**
+- 🔭 I’m currently working on **OCR and RAG**
 
 - 🌱 I’m currently learning **Java & JavaScript**
-
-- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **archithsabbani14@gmail.com**
 
